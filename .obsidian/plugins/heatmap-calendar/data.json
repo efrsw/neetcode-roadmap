@@ -1,0 +1,31 @@
+{
+  "year": 2023,
+  "colors": {
+    "default": [
+      "#c6e48b",
+      "#7bc96f",
+      "#49af5d",
+      "#2e8840",
+      "#196127"
+    ],
+    "blue": [
+      "#8cb9ff",
+      "#69a3ff",
+      "#428bff",
+      "#1872ff",
+      "#0058e2"
+    ]
+  },
+  "entries": [
+    {
+      "date": "1900-01-01",
+      "color": "#7bc96f",
+      "intensity": 5,
+      "content": ""
+    }
+  ],
+  "showCurrentDayBorder": true,
+  "defaultEntryIntensity": 4,
+  "intensityScaleStart": 1,
+  "intensityScaleEnd": 5
+}

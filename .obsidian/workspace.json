@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "eabf3f5b2697ca09",
+    "type": "split",
+    "children": [
+      {
+        "id": "765c737d67c7be4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95987e8112520188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "217-contains-duplicate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88b362e6439e6ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "57c7eadc24856c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10414f1507b80be7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20aedf59bb4f4df6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56893800542d279e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.5
+  },
+  "right": {
+    "id": "892dc5202baf0fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1a16a6d4c95970a",
+        "type": "tabs",
+        "dimension": 50.88235294117647,
+        "children": [
+          {
+            "id": "c77852a92b89de0d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "73e184dc2d2b61bd",
+        "type": "tabs",
+        "dimension": 49.11764705882353,
+        "children": [
+          {
+            "id": "5fb71c269071151b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "217-contains-duplicate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "25b5c567223eeaf9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "217-contains-duplicate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b955c71ddfc59533",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "217-contains-duplicate.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "95987e8112520188",
+  "lastOpenFiles": [
+    "res/excalidraw/217-contains-duplicate.excalidraw.md",
+    "217-contains-duplicate.md",
+    "res/tmp-problem.md",
+    "res/excalidraw/tmp-problem.excalidraw.md",
+    "res/excalidraw",
+    "res",
+    "Events/2023-10-12 Работа.md",
+    "Aurora/2023-10-12.md",
+    "Azure Data Studio.md",
+    "Resources/Excalidraw/5-vector-happiness-model.excalidraw.md",
+    "Aurora/2023-10-11.md",
+    "Resources/Excalidraw/Recursion.excalidraw.md",
+    "Aurora/2023-10-10.md",
+    "Aurora/2023-10-06.md",
+    "Events/2023-10-10 Работа.md",
+    "Aurora/2023-09-19.md",
+    "Aurora/2023-10-04.md",
+    "Aurora/2023-10-03.md",
+    "Aurora/2023-10-09.md",
+    "Visual Studio Useful Keymapping.md",
+    "Aurora/2023-09-30.md",
+    "Aurora/2023/05 2023/2023-05-25.md",
+    "Aurora/2023/05 2023/2023-05-11.md",
+    "Resources/Tasks/tsk54-explore_the_my_fight_with_windmills.md",
+    "The Goal.md",
+    "Global State Machine++.md",
+    "Se - Extraverted Sensation.md",
+    "Strategic Narrative (~).md",
+    "Resources/Pdfs/Nix Fundamentals.pdf",
+    "Resources/Pngs/emotions-wheel.png",
+    "Resources/Pngs/L1W8 - Overview.png",
+    "Resources/Pngs/L1W9 - Overview.png",
+    "Resources/Pngs/Leetcode367_wrong_output_insight.png",
+    "Resources/Pngs/Pasted image 20230815155734.png",
+    "Resources/Pngs/uniwien_admission.png",
+    "Resources/Pngs/Pasted image 20230816230023.png",
+    "Resources/Pdfs/Emotion Somatics_AV.pdf",
+    "Resources/Pngs/Kids emo wheel-v2.jpg",
+    "Pasted image 20230920184557.png",
+    "Areas/Computers/JSTS",
+    "Areas/Computers/Linux",
+    "Areas/Starfield",
+    "Aurora/2023/09 2023",
+    "@Tasks/Pet Project Ideas",
+    "c_2.pdf"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1691382442079,
+      "items": [],
+      "title": "Thinking Fast And Slow"
+    },
+    {
+      "type": "group",
+      "ctime": 1691382465981,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1691382455487,
+          "path": "Эффект WYSIATI.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1691382455487,
+          "path": "Associative decision-making.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1691382455487,
+          "path": "Human System 2.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1691382455487,
+          "path": "Monke System 1.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1691382455487,
+          "path": "Переоценка малых вероятностей.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1691382455487,
+          "path": "Эвристика когерентности.md"
+        }
+      ],
+      "title": "Начало пайплайна"
+    }
+  ]
+}

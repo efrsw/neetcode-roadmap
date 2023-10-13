@@ -1,0 +1,11 @@
+{
+  "accentColor": "#24847c",
+  "baseFontSize": 18,
+  "cssTheme": "Simple",
+  "interfaceFontFamily": "Fira Sans",
+  "textFontFamily": "Fira Sans",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "theme": "moonstone",
+  "translucency": false,
+  "nativeMenus": false
+}
