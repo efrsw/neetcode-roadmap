@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95987e8112520188",
+            "id": "91b21a4bc6cfcf15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "217-contains-duplicate.md",
+                "file": "49-group-anagrams.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "217-contains-duplicate.md",
+                "file": "49-group-anagrams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "217-contains-duplicate.md",
+                "file": "49-group-anagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "217-contains-duplicate.md"
+                "file": "49-group-anagrams.md"
               }
             }
           }
@@ -152,11 +152,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95987e8112520188",
+  "active": "91b21a4bc6cfcf15",
   "lastOpenFiles": [
-    "res/excalidraw/217-contains-duplicate.excalidraw.md",
-    "217-contains-duplicate.md",
     "res/tmp-problem.md",
+    "49-group-anagrams.md",
+    "217-contains-duplicate.md",
+    "res/excalidraw/217-contains-duplicate.excalidraw.md",
     "res/excalidraw/tmp-problem.excalidraw.md",
     "res/excalidraw",
     "res",
@@ -181,7 +182,6 @@
     "The Goal.md",
     "Global State Machine++.md",
     "Se - Extraverted Sensation.md",
-    "Strategic Narrative (~).md",
     "Resources/Pdfs/Nix Fundamentals.pdf",
     "Resources/Pngs/emotions-wheel.png",
     "Resources/Pngs/L1W8 - Overview.png",
